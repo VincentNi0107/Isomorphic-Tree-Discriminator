@@ -1,0 +1,1 @@
+g++ -I/usr/local/include -I/usr/local/include/FL/images -mconsole -DWIN32 -DUSE_OPENGL32 -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -o 'main' 'main.cpp' 'myline.cpp' 'tree.cpp' -mwindows /usr/local/lib/libfltk.a -lole32 -luuid -lcomctl32 -L/usr/local/lib -lfltk_images -lfltk_png -lfltk_z -lfltk_jpeg -lfltk

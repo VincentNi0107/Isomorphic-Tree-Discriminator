@@ -1,0 +1,6 @@
+A->AB
+A->AC
+A->AD
+AB->ABA
+AB->ABB
+AC->ACA
